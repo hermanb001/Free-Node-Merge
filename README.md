@@ -11,7 +11,7 @@ https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
 Clash 订阅，适用于 Clash .NET 等
 
 ```
-https://suo.yt/cssfBJA
+https://suo.yt/iJQYkA3
 ```
 
 ## To-Do
