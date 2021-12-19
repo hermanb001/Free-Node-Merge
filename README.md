@@ -5,13 +5,13 @@
 v2ray 订阅，适用于 v2rayN, Qv2ray 等 (base64)
 
 ```
-https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
+https://raw.fastgit.org/hermanb001/Free-Node-Merge/main/node.txt
 ```
 
 Clash 订阅，适用于 Clash .NET 等
 
 ```
-https://suo.yt/iJQYkA3
+https://suo.yt/mUjTF2o
 ```
 
 ## To-Do
