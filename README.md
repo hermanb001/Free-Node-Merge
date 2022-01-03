@@ -5,7 +5,7 @@
 v2ray 订阅，适用于 v2rayN, Qv2ray 等 (base64)
 
 ```
-https://raw.fastgit.org/hermanb001/Free-Node-Merge/main/node.txt
+https://raw.githubusercontent.com/codingbox/Free-Node-Merge/main/node.txt
 ```
 
 Clash 订阅，适用于 Clash .NET 等
