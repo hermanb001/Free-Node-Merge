@@ -2,13 +2,15 @@
 
 ## Link && Usage
 
-v2ray 订阅，适用于 v2rayN, Qv2ray 等 (base64)
+> v2ray 订阅，适用于 v2rayN, Qv2ray 等 (base64)
 
 ```
 https://raw.githubusercontent.com/codingbox/Free-Node-Merge/main/node.txt
 ```
-
-Clash 订阅，适用于 Clash .NET 等
+```
+https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
+```
+> Clash 订阅，适用于 Clash .NET 等
 
 ```
 https://suo.yt/EjPYSNW
